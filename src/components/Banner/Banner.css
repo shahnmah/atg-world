@@ -1,0 +1,16 @@
+.banner{
+    background-image: url('../../assets/images/banner.jpg');
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(0,0,0,0.45);
+    height: 440px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding-bottom: 80px;
+}
+h1{
+    font-size: 36px;
+}
+h4{
+    font-size: 18px;
+}
