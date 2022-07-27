@@ -1,0 +1,23 @@
+.search-bar{
+    width: 350px;
+}
+.search-bar input{
+    padding: 0px 68px 3px 50px;
+    background-color: #f2f2f2;
+    width: 360px;
+    height: 42px;
+    position: absolute;
+}
+.search-bar input::placeholder{
+    font-size: 14px;
+    width: 400px;
+    color: #5C5C5C;
+    font-weight: 500;
+}
+.search-bar svg{
+    position: relative;
+    top: 8px;
+    left: 16px;
+    font-size: 22px;
+    color: #7A7A7A;
+}
