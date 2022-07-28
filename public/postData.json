@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "postImg": "../src/assets/images/post-img-1.jpg",
+        "postType": "✍️ Article",
+        "postTitle": "What if famous brands had regular fonts? Meet RegulaBrands!",
+        "postDetails": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "postUserImg": "../src/assets/images/user-img-1.png",
+        "postUserName": "Sarthak Kamra",
+        "postViews": "1.4k views"
+    },
+    {
+        "id": 2,
+        "postImg": "../src/assets/images/post-img-2.jpg",
+        "postType": "🔬️ Education",
+        "postTitle": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+        "postDetails": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "postUserImg": "../src/assets/images/user-img-2.png",
+        "postUserName": "Sarah West",
+        "postViews": "1.4k views"
+    }
+]
